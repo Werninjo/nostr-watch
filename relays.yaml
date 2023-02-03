@@ -1,4 +1,5 @@
 relays:
+  - wss://nostr.bitcoinplebs.de
   - was://nostr.pleb.network
   - wss://nostr.up.railway.app
   - wss://nostr.lnorb.com
